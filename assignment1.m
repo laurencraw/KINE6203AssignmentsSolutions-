@@ -149,7 +149,6 @@ vecC= [8;6;4;2]
 % 20. Give the MATLAB expression that would create a vector 
 % (in a variable called vec) of 50 elements that range, equally spaced, 
 % from 0 to 2pi:
-linespace(0,2*pi,50)
 linspace(0,2*pi,50)
 
 % 21. Using the colon operator and the transpose operator, 
