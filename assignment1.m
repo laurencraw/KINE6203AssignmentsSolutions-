@@ -128,7 +128,6 @@ pounds = 30
 kilograms = pounds/2.2
 kilos = 13.6364
 
-
 % 18. Create a variable fTemp to store a temperature in degrees Fahrenheit (F). 
 % Convert this to degrees Celsius (C) using an appropriate 
 % calculation and store the result in a variable cTemp.

@@ -128,7 +128,6 @@ pounds = 30
 kilograms = pounds/2.2
 kilos = 13.6364
 
-
 % 18. Create a variable fTemp to store a temperature in degrees Fahrenheit (F). 
 % Convert this to degrees Celsius (C) using an appropriate 
 % calculation and store the result in a variable cTemp.
@@ -149,11 +148,11 @@ vecC= [8;6;4;2]'
 % 20. Give the MATLAB expression that would create a vector 
 % (in a variable called vec) of 50 elements that range, equally spaced, 
 % from 0 to 2pi:
-linspace(0,2*pi,50)
+vec= linspace(0,2*pi,50)
 
 % 21. Using the colon operator and the transpose operator, 
 % create a column vector that has the values -1 to 1 in steps of 0.5.
-columnVector= [-1: 0.5: 1;]
+columnVector= [-1: 0.5: 1;]'
 
 % 22. Create a variable called rows that is a random integer in the inclusive range 
 % from 1 to 5. Create a variable called cols that is a random integer in the 
